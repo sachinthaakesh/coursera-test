@@ -15,9 +15,7 @@ header{
 .navbar-brand h1{
 	margin-top: 10px
 }
-#nav-list a{
-	text-align: center;
-}
+
 .navbar-brand a:hover, .navbar-brand a:focus{
 	text-decoration: none;
 }
